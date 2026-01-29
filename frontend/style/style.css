@@ -99,6 +99,20 @@
     height: 570px;
     margin-bottom: 10px;
 }
+/* .mount-message::-webkit-scrollbar {
+  width: 8px;
+}
+.mount-message::-webkit-scrollbar-track {
+  background: #17bf95;
+}
+.mount-message::-webkit-scrollbar-thumb {
+    background: white;
+    border-radius: 15px;
+}
+.mount-message::-webkit-scrollbar-thumb:hover {
+    background: #888;
+} */
+
 .message {
     width: 260px;
     padding: 5px 10px;
